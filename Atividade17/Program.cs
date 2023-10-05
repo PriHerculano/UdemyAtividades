@@ -7,14 +7,22 @@
 //também deve haver um espaço em branco após o $.
 
 using System;
+using System.Globalization;
 
-namespace{
+namespace Atividade17{
 
     class Program{
 
         static void Main(string[] args){
 
+            int nFuncionario = int.Parse(Console.ReadLine());
+            int hTrab = int.Parse(Console.ReadLine());
+            double valorHorasTrab = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+            double salario = hTrab*valorHorasTrab;
+
+            Console.WriteLine("NUMBER = " + nFuncionario);
+            Console.WriteLine("SALARY = U$ " + salario.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
