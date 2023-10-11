@@ -21,8 +21,8 @@ namespace Atividade30{
             valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             resto = (int)(valor*100.0+0.5);
 
-            Console.WriteLine("NOTAS:");
-            
+            //NOTAS
+            Console.WriteLine("NOTAS:"); 
             nota = 100;
             quociente = resto / (nota * 100);
             Console.WriteLine(quociente + " nota(s) de R$ " + nota + ".00");
@@ -53,10 +53,8 @@ namespace Atividade30{
             Console.WriteLine(quociente + " nota(s) de R$ " + nota + ".00");
             resto = resto % (nota * 100);
 
+            //MOEDAS
             Console.WriteLine("MOEDAS:");
-
-            // o valor de cada moeda deverá ser representado em centavos
-
             moeda = 100;
             quociente = resto / moeda;
             Console.WriteLine(quociente + " moeda(s) de R$ 1.00");
