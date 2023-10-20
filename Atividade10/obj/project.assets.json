@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\97530\\Desktop\\UdemyAtividades\\Atividade08\\Atividade08.csproj",
-      "projectName": "Atividade08",
-      "projectPath": "C:\\Users\\97530\\Desktop\\UdemyAtividades\\Atividade08\\Atividade08.csproj",
+      "projectUniqueName": "C:\\Users\\97530\\Desktop\\UdemyAtividades\\Atividade10\\Atividade10.csproj",
+      "projectName": "Atividade10",
+      "projectPath": "C:\\Users\\97530\\Desktop\\UdemyAtividades\\Atividade10\\Atividade10.csproj",
       "packagesPath": "C:\\Users\\97530\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\97530\\Desktop\\UdemyAtividades\\Atividade08\\obj\\",
+      "outputPath": "C:\\Users\\97530\\Desktop\\UdemyAtividades\\Atividade10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\97530\\AppData\\Roaming\\NuGet\\NuGet.Config"
