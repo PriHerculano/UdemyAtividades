@@ -1,6 +1,5 @@
-﻿using System;
-
-namespace Atividade04{
+﻿namespace Atividade04
+{
     class Program{
         static void Main(String[] args){
             
