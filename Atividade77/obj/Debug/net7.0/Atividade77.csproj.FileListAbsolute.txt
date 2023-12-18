@@ -1,0 +1,14 @@
+C:\Users\97530\Desktop\UdemyAtividades\Atividade77\obj\Debug\net7.0\Atividade77.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97530\Desktop\UdemyAtividades\Atividade77\obj\Debug\net7.0\Atividade77.AssemblyInfoInputs.cache
+C:\Users\97530\Desktop\UdemyAtividades\Atividade77\obj\Debug\net7.0\Atividade77.AssemblyInfo.cs
+C:\Users\97530\Desktop\UdemyAtividades\Atividade77\obj\Debug\net7.0\Atividade77.csproj.CoreCompileInputs.cache
+C:\Users\97530\Desktop\UdemyAtividades\Atividade77\bin\Debug\net7.0\Atividade77.exe
+C:\Users\97530\Desktop\UdemyAtividades\Atividade77\bin\Debug\net7.0\Atividade77.deps.json
+C:\Users\97530\Desktop\UdemyAtividades\Atividade77\bin\Debug\net7.0\Atividade77.runtimeconfig.json
+C:\Users\97530\Desktop\UdemyAtividades\Atividade77\bin\Debug\net7.0\Atividade77.dll
+C:\Users\97530\Desktop\UdemyAtividades\Atividade77\bin\Debug\net7.0\Atividade77.pdb
+C:\Users\97530\Desktop\UdemyAtividades\Atividade77\obj\Debug\net7.0\Atividade77.dll
+C:\Users\97530\Desktop\UdemyAtividades\Atividade77\obj\Debug\net7.0\refint\Atividade77.dll
+C:\Users\97530\Desktop\UdemyAtividades\Atividade77\obj\Debug\net7.0\Atividade77.pdb
+C:\Users\97530\Desktop\UdemyAtividades\Atividade77\obj\Debug\net7.0\Atividade77.genruntimeconfig.cache
+C:\Users\97530\Desktop\UdemyAtividades\Atividade77\obj\Debug\net7.0\ref\Atividade77.dll
